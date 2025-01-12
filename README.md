@@ -58,7 +58,7 @@ Or check the csv file out here: [Loan.csv](/Loan.csv/)
 
 - Have a scan of what's in the data, errors, inconcsistencies, bugs, weird and corrupted characters etc  
 
-[picture]
+![loan data excel](https://github.com/user-attachments/assets/8bd9f6b6-5e38-4265-a88c-049aa978809b)
 
 1. We need to count the applicants.
 2. We need to calculate the averaged yearly data.
@@ -74,7 +74,7 @@ Or check the csv file out here: [Loan.csv](/Loan.csv/)
 2. Create a new table 'test_project1' under Schemas.
 3. Import the data into the table.
 
-[picture]
+![pgadmin project1 data load](https://github.com/user-attachments/assets/c188a1c3-9a49-4398-86d2-fe3fa46cc81f)
 
 ## Data cleaning 
 
@@ -112,7 +112,7 @@ ORDER BY _year;
 
 The returned dataset looks like this:
 
-[picture]
+![project1 sql returned risk data](https://github.com/user-attachments/assets/ad5ed5f1-2ef0-4d6a-804e-08e433cd895a)
 
 Check the csv file out here: [risk_data.csv](/risk_data.csv/)
 
@@ -127,9 +127,9 @@ Check the csv file out here: [risk_data.csv](/risk_data.csv/)
 
 - What does the dashboard look like?
 
-Check the file out here: [Financial risk project pbi.pdf](/Financial risk project pbi.pdf/)
+Check the file out here: [Financial risk project pbi](/Financial_risk_project_pbi.pdf/)
 
-![GIF of Power BI Dashboard](assets/images/top_uk_youtubers_2024.gif)
+![financial risk pbi](https://github.com/user-attachments/assets/48b892e7-570a-4867-bfdb-a64a2612e518)
 
 This shows the drivers of financial risk. 
 
